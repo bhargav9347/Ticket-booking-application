@@ -1,6 +1,6 @@
-# React + Vite
+# Smart Campus Event
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A premium ticket booking application for campus events.
 
 Currently, two official plugins are available:
 

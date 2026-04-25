@@ -140,7 +140,7 @@ function App() {
   return (
     <div className="container">
       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '2rem' }}>
-        <h1>🎟 Smart Campus</h1>
+        <h1>🎟 Smart Campus Event</h1>
         <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
           {user ? (
             <>
@@ -223,7 +223,7 @@ function App() {
       )}
 
       <footer style={{ textAlign: 'center', marginTop: '3rem', padding: '1rem', color: 'var(--text-muted)', fontSize: '0.8rem', borderTop: '1px solid var(--glass-border)' }}>
-        © 2026 Smart Campus Events • Built for Excellence
+        © 2026 Smart Campus Event • Built for Excellence
       </footer>
     </div>
   );

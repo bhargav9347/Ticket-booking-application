@@ -19,7 +19,7 @@ function Login({ onLogin, onSwitchToRegister }) {
 
   return (
     <div className="container" style={{ maxWidth: '400px' }}>
-      <h1>🎟 Smart Campus</h1>
+      <h1>🎟 Smart Campus Event</h1>
       <form className="card" onSubmit={handleSubmit}>
         <h2 style={{ textAlign: "center", border: "none" }}>Welcome Back</h2>
         <p style={{ textAlign: "center", marginBottom: "1.5rem" }}>Sign in to manage your bookings</p>
